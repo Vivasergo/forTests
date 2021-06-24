@@ -1,0 +1,4 @@
+New text file
+
+changes in New-feature branch
+commit: edit-6 / file testFile444 local/New-feature
